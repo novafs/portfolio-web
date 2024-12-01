@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #e2edff;
+}
+
+.jumbotron img {
+  box-sizing: border-box;
+  width: 32vh;
+  height: 32vh;
+}
+
+#gallery {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
